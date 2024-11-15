@@ -12,12 +12,15 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
   articleId 
 }) => {
   const [article, setArticle] = useState<ArticleData | null>(null);
+  const [viewMode, setViewMode] = useState<'markdown' | 'original'>('original');
 
   useEffect(() => {
     if (topicId && articleId) {
       const articles = loadArticles(topicId);
       const found = articles.find(a => a.id === articleId);
       setArticle(found || null);
+      // 重置为原文视图
+      setViewMode('original');
     } else {
       setArticle(null);
     }
@@ -25,17 +28,14 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
 
   // 自定义图片渲染
   const ImageRenderer = ({ src, alt }: { src: string; alt?: string }) => {
-    if (src.includes('mmbiz.qpic.cn')) {
-      return (
-        <img 
-          src={src} 
-          alt={alt} 
-          className="max-w-full h-auto"
-          referrerPolicy="no-referrer"
-        />
-      );
-    }
-    return <img src={src} alt={alt} className="max-w-full h-auto" />;
+    return (
+      <img 
+        src={src} 
+        alt={alt} 
+        className="max-w-full h-auto"
+        loading="lazy"
+      />
+    );
   };
 
   if (!article) {
@@ -46,7 +46,6 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
     );
   }
 
-  console.log("originalLink: ", article.originalLink)
   return (
     <main className="flex-1 bg-white h-full overflow-y-auto">
       <div className="sticky top-0 bg-white border-b border-gray-200 p-4 shadow-sm z-10">
@@ -55,29 +54,98 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
             {article.title}
           </h1>
           {article.originalLink && (
-            <a
-              href={article.originalLink}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors"
-            >
-              查看原文
-            </a>
+            <div className="flex gap-2">
+              <button
+                onClick={() => setViewMode('markdown')}
+                className={`px-4 py-2 rounded-lg transition-colors ${
+                  viewMode === 'markdown' 
+                    ? 'bg-blue-100 text-blue-700' 
+                    : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                }`}
+              >
+                Markdown
+              </button>
+              <button
+                onClick={() => setViewMode('original')}
+                className={`px-4 py-2 rounded-lg transition-colors ${
+                  viewMode === 'original' 
+                    ? 'bg-blue-100 text-blue-700' 
+                    : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                }`}
+              >
+                原文
+              </button>
+            </div>
           )}
         </div>
       </div>
 
-      <article className="max-w-4xl mx-auto px-8 py-12">
-        <div className="prose prose-lg prose-slate max-w-none">
-          <ReactMarkdown
-            components={{
-              img: ImageRenderer
+      <div className="h-[calc(100vh-64px)]">
+        {viewMode === 'markdown' ? (
+          <article className="max-w-4xl mx-auto px-8 py-12">
+            <div className="prose prose-lg prose-slate max-w-none">
+              <ReactMarkdown
+                components={{
+                  img: ImageRenderer,
+                  // 自定义链接渲染，在新窗口打开
+                  a: ({ href, children }) => (
+                    <a 
+                      href={href} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="text-blue-600 hover:text-blue-800"
+                    >
+                      {children}
+                    </a>
+                  ),
+                  // 自定义标题样式
+                  h1: ({ children }) => (
+                    <h1 className="text-3xl font-bold mb-4">{children}</h1>
+                  ),
+                  h2: ({ children }) => (
+                    <h2 className="text-2xl font-bold mb-3">{children}</h2>
+                  ),
+                  h3: ({ children }) => (
+                    <h3 className="text-xl font-bold mb-2">{children}</h3>
+                  ),
+                  // 自定义代码块样式
+                  code: ({ node, inline, className, children, ...props }) => (
+                    <code
+                      className={`${className} ${
+                        inline 
+                          ? 'bg-gray-100 rounded px-1' 
+                          : 'block bg-gray-800 text-white p-4 rounded-lg'
+                      }`}
+                      {...props}
+                    >
+                      {children}
+                    </code>
+                  ),
+                  // 自定义引用块样式
+                  blockquote: ({ children }) => (
+                    <blockquote className="border-l-4 border-gray-200 pl-4 italic">
+                      {children}
+                    </blockquote>
+                  ),
+                }}
+              >
+                {article.content}
+              </ReactMarkdown>
+            </div>
+          </article>
+        ) : (
+          <webview
+            src={article.originalLink}
+            style={{ 
+              width: '100%',
+              height: '100%'
             }}
-          >
-            {article.content}
-          </ReactMarkdown>
-        </div>
-      </article>
+            // webview 特有属性
+            allowpopups="true"
+            webpreferences="contextIsolation=false"
+          />
+        )}
+      </div>
     </main>
   );
 };

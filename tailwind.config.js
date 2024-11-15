@@ -8,6 +8,6 @@ export default {
     extend: {},
   },
   plugins: [
-    require('@tailwindcss/typography'),
+    require('@tailwindcss/typography'), // 如果你需要 prose 类
   ],
 }

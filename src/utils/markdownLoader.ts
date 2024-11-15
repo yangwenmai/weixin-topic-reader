@@ -12,7 +12,7 @@ export interface ArticleData {
 }
 
 // 使用 Vite 的 import.meta.glob 来加载文件
-const markdownFiles = import.meta.glob('/topics/**/*.{md,mdx}', { as: 'raw', eager: true });
+const markdownFiles = import.meta.glob('/topics/**/*.{md,mdx}', { as: 'raw', import: 'default', eager: true });
 
 export const loadTopics = (): TopicData[] => {
   const topics = new Set<string>();
