@@ -47,7 +47,7 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
   }
 
   return (
-    <main className="flex-1 bg-white h-full overflow-y-auto">
+    <main className="flex-1 bg-white flex flex-col h-full">
       <div className="sticky top-0 bg-white border-b border-gray-200 p-4 shadow-sm z-10">
         <div className="max-w-4xl mx-auto flex justify-between items-center">
           <h1 className="text-xl font-bold text-gray-900 truncate">
@@ -79,13 +79,14 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
           )}
         </div>
       </div>
-
-      <div className="h-[calc(100vh-64px)]">
+  
+      <div className="flex-1 overflow-hidden">
         {viewMode === 'markdown' ? (
-          <article className="max-w-4xl mx-auto px-8 py-12">
-            <div className="prose prose-lg prose-slate max-w-none">
-              <ReactMarkdown
-                components={{
+          <div className="h-full overflow-y-auto">
+            <article className="max-w-4xl mx-auto px-8 py-12">
+              <div className="prose prose-lg prose-slate max-w-none">
+                <ReactMarkdown
+                  components={{
                   img: ImageRenderer,
                   // 自定义链接渲染，在新窗口打开
                   a: ({ href, children }) => (
@@ -128,11 +129,12 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
                     </blockquote>
                   ),
                 }}
-              >
-                {article.content}
-              </ReactMarkdown>
-            </div>
-          </article>
+                >
+                  {article.content}
+                </ReactMarkdown>
+              </div>
+            </article>
+          </div>
         ) : (
           <webview
             src={article.originalLink}
@@ -140,7 +142,7 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
               width: '100%',
               height: '100%'
             }}
-            // webview 特有属性
+            className="flex-1"
             allowpopups="true"
             webpreferences="contextIsolation=false"
           />
