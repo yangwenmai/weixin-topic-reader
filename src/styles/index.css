@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 添加一些自定义样式 */
+.markdown-content {
+  @apply prose prose-slate max-w-none;
+}
