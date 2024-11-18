@@ -21,6 +21,9 @@ export const ArticleList: React.FC<ArticleListProps> = ({
     if (url.includes('mmbiz.qpic.cn')) {
       return url.replace('https://mmbiz.qpic.cn', '/wx-images');
     }
+    if (url.includes('mmbiz.qlogo.cn')) {
+      return url.replace('https://mmbiz.qlogo.cn', '/wx-qim');
+    }
     if (url.includes('mp.weixin.qq.com')) {
       return url.replace('https://mp.weixin.qq.com', '/wx-mp');
     }

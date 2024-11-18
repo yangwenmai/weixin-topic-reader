@@ -5,6 +5,8 @@
 发布地: 浙江
 原文链接: http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650003653&idx=2&sn=e326304bf7612887e67c2583e74e17a3&chksm=88ba51c2bfcdd8d4cfb8f117f456f7126734c7375fbf241775dff194ef5c008fa67a47cbefc1#rd
 
+封面图链接: https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNs1H5ccM6lkJZib1bsTUXQwZQZkqFayGYgTMDcJ3D0rcs9xypicVicriaQg/300
+
 **👇关注公众号后设🌟标，掌握第一手AI新动态**
 
 ****
@@ -43,7 +45,8 @@ Youtube频道专访，公开发表于2024年11月10日。原始内容参考：ht
 
 ## Aravind Srinivas简介
 
-Aravind Srinivas
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNjy1N9twyTBoSYbiahLPwRsKibj9FMDJFtAMTiaJ2zYEyjJu7yxTz9cCGg/640?wx_fmt=png&from=appmsg)Aravind
+Srinivas
 
 Aravind Srinivas 是人工智能初创公司 Perplexity AI 的首席执行官兼联合创始人。Perplexity AI
 致力于打造“世界上最值得信赖的问答引擎”，其核心产品是一款基于大型语言模型的聊天机器人，可以回答用户问题并提供信息来源。
@@ -60,6 +63,8 @@ Srinivas
 好的，欢迎大家。今天我的嘉宾是Aravind。Aravind是Perplexity的首席执行官，Perplexity是一款正在颠覆在线搜索的AI答案引擎。我很高兴能和他谈谈Perplexity是如何构建产品的，它是如何发展到每周1亿次查询量的，以及它将如何提供比10个蓝色链接好得多的广告。欢迎，Aravind。让我们谈谈Perplexity是如何构建产品的。我对你们的交付速度印象非常深刻。**我认为你们在过去10天里发布了大约六个功能，包括Mac应用程序、内部知识搜索等等**
 。你知道，如此快速地交付这么多功能的秘诀是什么吗？
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNCicRwkdB4unWChs68k5jj9slPzOQpmUicCPpZreAsnbg0zd3yUvgCwYw/640?wx_fmt=jpeg&from=appmsg)
+
 **Aravind Srinivas：**
 我的意思是，首先，是的，在公司内部，我一直认为我们可以做得更快。从外部来看，我很自豪人们认为我们是一个非常快速的交付机器。但让我坦白地说，我们仍然有很多低效的地方，我们可以做得更好。
 
@@ -74,6 +79,8 @@ Srinivas
 ，如果你成功了，我认为这会非常有效。
 
 顺便说一下，我有机会和字节跳动首席执行官谈过一次，他告诉我字节跳动也是这样运作的，他们有一群人可以去做字节跳动家族的任何应用程序，这并不重要。同一组人员负责任何字节跳动家族应用程序的增长，而不仅仅是TikTok。所以，无论他们学到了什么经验教训，都可以直接复制到许多不同的功能中。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNDojFicSbPk9N8tL3MNUItiaesPicLYerjUFGkV4FnOKcguapCFTE0vrEw/640?wx_fmt=jpeg&from=appmsg)
 
 **主持人Peter Yang：**
 我认为你们发布功能的速度比谷歌将一个文档推给另一个高管的速度还快。你们有产品评审流程吗？还是仅仅是人们在内部试用它，然后决定它可以发布？
@@ -98,12 +105,16 @@ Srinivas
 **主持人Peter Yang：**
 是的，我的意思是，我喜欢那些经常与用户交流的CEO。这正是我工作的一部分。我的意思是，你知道的，我以前用谷歌，然后很久以前我试用了Perplexity。我很快就意识到这东西有多好，可能只需要几次查询就能意识到它在信息和知识搜索方面的优势。但我记得你很久以前发过一篇很长的推文，里面提到有很多不同类型的搜索，对吧？所以我想问几个问题，比如，你有那种Facebook的图片吗？你知道，在10天内获得7个朋友，然后你就上瘾了？诸如此类。
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNbdq31RibWUWqkbsygFju3EhwjzOqxtqwmhO6uS0lhHeYAuI2iaDmHaqA/640?wx_fmt=jpeg&from=appmsg)
+
 **Aravind Srinivas：**
 顺便说一句，你知道的，你应该对此持保留态度，因为它可能并不完全准确，但这是一种思考问题的有用方法。对我们来说，关键在于你提出的前K个问题中，有多少问题得到了很好的答案？如果一个用户问了，比如说10个问题，那么他们不太可能放弃，对吧？因此，你可以将其视为这样的百分比：提出一个问题的人中，有多少人会提出两个问题？提出两个问题的人中，有多少人会提出5个问题？5到10个问题？10到20个问题？20到50个问题？50到100个问题？
 
 我认为，**一旦用户在一个产品上提问超过100个问题，他们就不太可能完全放弃而转向其他地方**
 。这就是我们看到的情况，**我们尽最大努力改进这些漏斗的比率，而这最终总是归结为三点：准确性、延迟和答案的可读性**
 。你不会想要一大段文字，你也不想要缓慢的答案，更不想要不准确的答案，实际上，不准确的答案最糟糕，它会让用户失去对产品的信任，然后离开。这就是我们改进产品的三个主要维度，将其分解成这三点是很棒的，因为即使是一年后，我给你的仍然是这三个维度：速度、准确性和可靠性，还有一个更宏观的第四维度，那就是产品的稳健性或可靠性，它不应该崩溃，基础设施不应该崩溃，不应该出现“我们将在半小时内恢复”之类的情况，所有这些基础设施问题。我们的确在本季度遇到了很多这样的问题，所以我们一直在努力解决这些问题。但我们也看到一些用户因为产品持续宕机而流失，人们可能会想，“哦，我不想再用了”。所有这些问题都会造成影响，而我们是一家初创公司，对吧？我们正在学习如何扩展我们的运营。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNnicaKTIqlBr71nCWP0WVGWpGFT3wVhvk1pFHoVBR1UIVILVviaV0liaRg/640?wx_fmt=jpeg&from=appmsg)
 
 **主持人Peter Yang：** 你如何判断答案的准确性？例如，人们是否会再次搜索？或者人们是否会给你反馈？或者你怎么判断？
 
@@ -156,6 +167,8 @@ Copilot或Cursor，因为我认为这些编码工具已经集成到编辑器中�
 
 所以从一开始，我们就决定，让我们争取用户，争取使用量，争取查询次数。如果人们现在正在使用该产品，并且他们的日常习惯已经改变，那么因为其他人发布了相同的东西，他们流失的可能性就非常小。但当人们正在为一种实用工具付费，而这种实用工具现在由另一家拥有更大品牌影响力的公司免费提供时，他们就会流失。这是历史上已经证明了的。所以我们认为，即使我们没有让某些应该付费的用户付费，因为我们在他们的查询上投入了大量资金，也没关系。我们以后会想办法更有效地将其货币化。但现在，让我们专注于用户增长和查询增长。
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNLxrtDQjEKNGHVniazP8fXSGd29rLtU8b5WvxIX1a2NP724iceicO1akhw/640?wx_fmt=jpeg&from=appmsg)
+
 **主持人Peter Yang：** 是的，但是订阅计划做得不错，对吧？有数百万人为此付费。
 
 **Aravind Srinivas：**
@@ -165,6 +178,8 @@ Copilot或Cursor，因为我认为这些编码工具已经集成到编辑器中�
 
 所以，基本上，当你总是将事情与谷歌相比时，一切都会显得渺小且无关紧要。但当你想到那些已经IPO的公司，比如Airbnb、DoorDash、Snowflake或即将IPO的Databricks时，每年20亿到30亿美元甚至40亿美元的收入，以及显著的盈利机会，对于任何风险投资支持的企业来说都是一个非常惊人的结果。这就是为什么一些投资者看懂了这一点，这就是为什么他们喜欢成为Perplexity资本表的一部分，因为他们清楚地知道，即使是下行风险相对于我所了解的大多数公司来说也相当高，而上行空间，**如果你能找到某种方法超越付费订阅者，那么上行空间就更加惊人**
 。我认为未来将是付费订阅（计划中包含许多实用功能，而不仅仅是访问AI模型）和某种不会损害答案质量的广告的结合。如果你能找到这两种模式之间良好的、健康的平衡，并比我们今天更有效地将免费用户货币化，我认为这将非常棒。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNPxu4xqSPEsenUPTiadxdKA4tdicCITiaanKb7vIHv7BLMttEylxhdPKbg/640?wx_fmt=jpeg&from=appmsg)
 
 **主持人Peter Yang：**
 是的，我们最后一个话题，让我们谈谈广告。作为一个用户，谷歌搜索显然已经退化了很多。有很多赞助链接，移动网站的体验非常糟糕，到处都是广告。那么，你如何考虑提供比现在更好的广告呢？
@@ -177,6 +192,8 @@ Copilot或Cursor，因为我认为这些编码工具已经集成到编辑器中�
 链接支付一定的广告预算来让它在有人输入“跑鞋”时出现在顶部更有效，并通过推荐流量在你自己的网站上产生需求。
 
 这就是你如何能够更精准地定位到正确的用户、正确的意图，而不会破坏用户体验，同时也能确保你仍然能够从你所花费的预算中获得投资回报。这是我们的观点。现在，我必须说，所有这些都还有待证明。我并不是说这会奏效，但你问我我的假设，这是我们的假设。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ClW8NejCpBPrgnwLwRWrsYY9HPF5iarvNVEEia4Z34eWv3gcaT3bXHWrTosA5ts4lBK2aKB1tJWnsRp3clEIVxBw/640?wx_fmt=jpeg&from=appmsg)
 
 **主持人Peter Yang：** 很多人都点击后续问题，对吧？
 

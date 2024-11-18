@@ -5,6 +5,8 @@
 发布地: 北京
 原文链接: http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650936991&idx=1&sn=b1ef163dcd6eae74dfdea1ada2604336&chksm=84e7d2e1b3905bf75c1f0517845aa1db4e46dcadcb0bad1a3befdfda6e8881a0ede5447198cb#rd
 
+封面图链接: https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWicKMZJdxWVeVjYR2KsF7zt6TzIdcHBLDDwkibOXTP4Yuib9TJlWztwibhaYVBmSVUhON79SlicDrpVIHA/300
+
 机器之心报道
 
 **编辑：佳琪、蛋酱**
@@ -13,7 +15,7 @@
 最近一段时间，AI 编程工具 Cursor 火遍全球，风头一时无两。  
 Cursor 是一款基于 VS Code 的代码编辑器，它为 AI 辅助编程添加了许多强大的功能，吸引了编程界和人工智能界的关注和兴奋。  
 近日，知名播客节目主持人 Lex Fridman 与四位 Cursor 团队成员进行了一场技术对谈，揭示了这个团队在做的以及未来要做的探索。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWicKMZJdxWVeVjYR2KsF7zt6PNPoJyxSYjSdGaezMnyJtOHuqNOsvGrLf4wt4IIn8X7BTFxAOt6Gfg/640?wx_fmt=png&from=appmsg)  
 视频地址：https://youtu.be/oFfVt3S51T4?si=pCvBgWm5X-W8xt4n  
 以下是 Lex Fridman 与 Cursor 团队创始成员 Michael Truell、Sualeh Asif、Arvid Lunnemark 和
 Aman Sanger 的对话，机器之心进行了核心内容的整理：  
@@ -56,7 +58,7 @@ Sonnet、o1）处理大型文件时，常常会出现搞串行这样的低级错
 可能有很多人认为 Apply 功能背后的算法是「确定性的」，也就是说它有一套固定的规则或流程，但实际上并不是。  
 是的，其他 AI 编程工具也有 Apply 功能的「平替版」，但它们往往会崩溃。很多人以为可以通过确定性的匹配来实现这些功能，但实际情况是，至少有 40%
 都会失败。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWicKMZJdxWVeVjYR2KsF7zt6iaWwLsml2kEw1OxHsaN0ibsBNREiaibINgiaPVLIicfuuYMrysy8SAn55AoA/640?wx_fmt=png&from=appmsg)  
 我认为整体趋势是，模型会变得越来越智能。而 Apply 的另一个优势在于，它可以让最智能的模型在生成代码时，使用较少的 tokens，从而降低延迟和成本。  
 具体来说，你可以给模型一个粗略的代码草稿，然后模型负责具体实现，相比于让模型从零开始写完整的代码，给一个大致草稿让模型去完善要简单得多。我相信这一趋势将继续发展，随着负责规划的模型越来越智能，具体实现的细节可能交由相对简单的模型来处理。也许会有
 o1 或更强大的模型来生成高层次的规划，再由定制的模型递归地执行。  
@@ -70,7 +72,8 @@ tokens 更快。因此，当你查看每秒生成的 tokens 数量时，会发�
 tokens，我们则根据匹配程度判断何时重新对代码块进行推测。  
 **GPT vs Claude**  
  _哪个 LLM 更擅长编码？GPT 和 Claude 在编程方面谁更胜一筹？_  
- _大模型编程能力排行榜_  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWicKMZJdxWVeVjYR2KsF7zt6GokPt5keIB5XSV8YCibhCWT2mEsic3icbVHUY4ukzP3ibdWiaLicaBRX6shw/640?wx_fmt=png&from=appmsg)
+_大模型编程能力排行榜_  
 我认为没有哪个模型可以称霸于所有模型，这意味着在我们认为重要的所有类别中，Pareto
 模型都表现更好，这些类别包括速度、编辑代码的能力、处理大量代码的能力、长上下文、其他一些方面以及编码能力。我现在认为最好的模型是 Sonnet。o1
 非常有趣，而且推理能力很强。因此，如果你给它一些非常难的编程面试风格问题或引导代码问题，它可以做得很好，但感觉它不像 Sonnet 那样理解你的大致意图。  
@@ -93,7 +96,7 @@ Python 存储库。SimPy 就是一个例子。我不认为他们会在 SimPy 和
 Preempt。它有点像你在制作一个网站：你希望在移动端和桌面端都能正常显示网站的页面。但你需要考虑一些动态的信息，毕竟网页设计不像杂志排版是固定的。网站和提示词的输入都是动态的，你需要确保格式始终适用，输入量很大时，需要剪裁一些内容。因此，我们从设计网站的思路中提取了灵感。  
 我们非常喜欢 React 以及声明式的方式，比如你可以在 JavaScript 中使用
 JSX，然后直接声明：「这就是我想要的，我认为这个部分比其他部分具有更高的优先级或更高的 Z 轴顺序。」  
-‍  
+‍![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWicKMZJdxWVeVjYR2KsF7zt66yfeZ6bgRgLhYyzI0WlIUiaOpuIF7JSvmUG7xb3JrKWGc2WauDpicTrA/640?wx_fmt=png&from=appmsg)  
 在网页设计中，渲染工作‍由渲染引擎来完成，而在 Cursor 中，这个任务由 Preempt
 渲染器负责，它将所有内容布局到页面上。你只需说明你想要的效果，渲染器会自动帮你实现。  
 我们发现这种方法非常有用，而且它的角色也在不断演变：最初它是为了适应较小的上下文窗口，而现在它在拆分进入提示词的数据和实际生成方面发挥了很大作用。因此，调试起来更加简单，因为你可以修改提示词，并在旧的提示词上进行测试，直接查看你的修改是否真的提升了整个评估集的表现。  
@@ -137,10 +140,10 @@ RLHF，以便能够回答有关代码的一般问题。因此，当你问它关�
 对于预训练模型模型，Scaling law 效果拨群，但我们现在已经遇到了「数据壁垒」，因此，通过增加推理时使用的 flops
 来提升模型性能，是一种有趣的方法。传统上，我们必须训练更大的模型来使用更多的
 flops，但现在我们或许可以在相同规模的模型上运行更长时间，来达到大型模型的质量。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWicKMZJdxWVeVjYR2KsF7zt6sy6uxhXORmh699Cb9sxNaQiba2IiaoAkiaiaYMibBmzObu5hB8TBOWe7pLw/640?wx_fmt=png&from=appmsg)  
 我觉得还有一点很有趣，有些问题可能需要一个拥有 100 万亿参数、训练了 100 万亿 tokens 的超大模型才能解决，但这样的问题可能只占所有查询数量的
 1% 甚至 0.1%。那么，你会花费大量的计算资源去训练一个如此昂贵的模型，却只为极少的查询提供服务吗？这样做感觉很浪费。  
-‍  
+‍![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWicKMZJdxWVeVjYR2KsF7zt6oG3yEZV4qrNUPHvD8e2FI03a595MsZeWDcia4EibRiaQH1BVF5pOm31PA/640?wx_fmt=png&from=appmsg)  
 ‍所以更好的方法是，训练一个能够处理 99.9% 查询的模型，然后对于那些需要极高智能的问题，在推理时运行更长时间，以获得更好的答案。  
  _如果你要构建一个能和 o1 pk 的模型，你会怎么做？_  
 待做事项之一肯定是要训练一个「过程奖励模型」（process reward model）。  
@@ -183,6 +186,8 @@ agent 的能力。但我们还在探索中。
 10月26日，论坛汇聚端侧大模型领先技术及应用企业代表，通过技术报告、应用实践、实操演练等环节，从理论到实战，助您全方位掌握端侧大模型部署应用，开启AI技术升级之路。
 
 立即行动，扫码即刻享受限时早鸟优惠！
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9pFnnuNFWjUKiaGCUlib7gYgvQUwWrrHko0f7iaCB9IXJv3aXvibF4hZSgeib5r7KxYe1IV5cLDfISkvA/640?wx_fmt=jpeg&from=appmsg)
 
 © THE END
 

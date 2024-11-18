@@ -41,6 +41,15 @@ export default defineConfig({
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
         }
       },
+      '/wx-qim': {
+        target: 'https://mmbiz.qlogo.cn',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/wx-qim/, ''),
+        headers: {
+          'Referer': 'https://mp.weixin.qq.com',
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
+        }
+      },
       // 处理微信文章
       '/wx-mp': {
         target: 'https://mp.weixin.qq.com',

@@ -5,6 +5,8 @@
 发布地: 上海
 原文链接: http://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247494130&idx=1&sn=bbe7db9e28150dc91349837ccf701ddf&chksm=c0085b17f77fd201b95911bb486ebd68b42d8a6f3f82972042d263292b1d1a1d996cfeb5259b#rd
 
+封面图链接: https://mmbiz.qpic.cn/mmbiz_jpg/iaqv2tagPYAjDuicLBMnknyRIsAEgUibzdZ0UAbyEIQfLA8leMibqbgxCsD50kKFwlFK1RUag6Eodo7coPqbPsY92g/300
+
 **（关注公众号并设为🌟标，获取最新人工智能资讯和产品）**
 
 全文8,000 字，阅读约需19分钟
@@ -15,6 +17,8 @@
 >
 > ——人们容易认为，只要做的是 AI，商业法则就不适用了。实际上，即使使用
 > AI，你仍然需要建立竞争壁垒和优势。虽然可以借助新技术迅速增长，但不能忘记必须创造真实的价值。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAjDuicLBMnknyRIsAEgUibzdZHgmcHcBrAPvuqUasxMSslR0y8jlHw8oWwp6PXfbCphIxXdwe9d5iapQ/640?wx_fmt=png&from=appmsg)
 
   
 
@@ -269,6 +273,8 @@ AI，你仍然需要建立竞争壁垒和优势。虽然可以借助新技术迅
 
 **不只是算法，我们在创造改变生活的可能。您是否曾想过AI技术能带来突破？现在，欢迎扫描下方二维码或点击链接填写AI需求，来和我们聊聊。**
 
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAjDuicLBMnknyRIsAEgUibzdZUer39iabH36JvQjzoTukEoqtbsicuXDSxfMhfjAXveIqwj2dHD2qQ9mg/640?wx_fmt=png&from=appmsg)
+
 _**https://kawecob6a7k.feishu.cn/share/base/form/shrcn9i5HkwtHpkQNaV1bDqjt8f，会有相关负责人及时联系您，请留意您的微信和邮箱信息。**_
 
 ##  往期回顾
@@ -281,6 +287,8 @@ Altman：OpenAI新战略下，与主流路线不同的AI创业机会（附完整
 [3、[CNN对话软银CEO孙正义：超级AI不仅会在2035年到来，还将具备万倍于人类的智能](https://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247493966&idx=2&sn=d0992e40e82b4a827c37f853272b4d42&chksm=c0085babf77fd2bd804482ddfb52289f520f319c9afb71640c464c9d2de7ed48a238a6c891ff&scene=21#wechat_redirect)
 
 * * *
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAhtRhTOjz2QwH4dIlC3YUcYbaicMEwjqQqh06Yhdd7EH3r9wiaMRArLz0a6Zhx6uiaUD7hguPfbY0nAg/640?wx_fmt=png&from=appmsg)
 
   
 

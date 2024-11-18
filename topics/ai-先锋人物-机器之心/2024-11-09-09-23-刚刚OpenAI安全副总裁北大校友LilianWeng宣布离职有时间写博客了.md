@@ -5,6 +5,8 @@
 发布地: 辽宁
 原文链接: http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650942398&idx=1&sn=497b91b6d89015a4d4eaf149b5303c05&chksm=84e7efc0b39066d6ce1398d8adcf6e4de357fe005e1a45e3ec1a510562a90d22d7ca94cd76ce#rd
 
+封面图链接: https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMMUfnuQQMgZ9nPsjDL8VoOPZpVWEiaSmt37JAfkG1kTCs1icWdgF4T8aQ/300
+
 机器之心报道**编辑：Panda、**陈陈****
 
 > 翁荔的技术博客深入、细致，具有前瞻性，被很多 AI 研究者视为重要的参考资料。如今，她离开了
@@ -14,16 +16,20 @@
 自从 Sam Altman 重新执掌 OpenAI 以来，该公司就陷入了持续不断的高管离职潮中。虽然近段时间有些外部新高管加入，但很显然这个离职潮仍未结束。  
 就在刚刚，OpenAI 安全系统团队负责人翁荔（Lilian Weng）在 X 上宣布将离开已经工作了近 7 年的
 OpenAI。同时，她还公开分享了发给团队的离职信，不过其中并未明确说明她接下来的职业计划。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECM2jfzBn6ejFqcEp8xMDSXDTXKTT5GN1Ol5odDaxPgDtgziafq8QhhqhA/640?wx_fmt=png&from=appmsg)  
 推文发布后，OpenAI 内外的一些知名人士为其送上了祝福，包括著名研究科学家 Noam Brown、OpenAI 首席信息安全官 Dane
 Stuckey、思维链提出者 Jason Wei 等等。  
-  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECM8JKFwsBGHdHrRs66qnx6d00T5aJ3oqg75LuyIepIQ49gzhJtTibsUJw/640?wx_fmt=png&from=appmsg)![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECM4qKR4CWJTrSicicic8CNAUTW1u33Rc9ueKNlaMFPDQxFKTPZ00KeJbwfA/640?wx_fmt=png&from=appmsg)  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMbgT4TrTfnqGR7lGiaxy7D5qsF43xeksfOWCSh7Mc7uGCJ51C4EocgCw/640?wx_fmt=png&from=appmsg)  
 当然，许多网友也纷纷送上了自己的祝福，毕竟她不仅在 OpenAI 推动了安全相关的研究和实践，偶尔更新的博客 Lil’Log 也实实在在地帮助了很多人。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMHJ6z8Ao9r1hWDZBuuDHUCtZhk7WgDGNGpUJia918CFic9sEXK3m4LMpw/640?wx_fmt=png&from=appmsg)  
 Lilian Weng 博客地址：https://lilianweng.github.io/  
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMcEsSqN0KNb4licu2OxQAs0L5RpQHY5gFYeibCKYz5T52KmvFiaLNtX8iaQ/640?wx_fmt=png&from=appmsg)
+
   
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMjIYvf0Frcpa3HnXErKmaEibLxQ8WI5mqBDREdgiaggglS7nBNibY54apg/640?wx_fmt=png&from=appmsg)
 
   
 以下是她与团队分享的离职信的中文版：  
@@ -57,17 +63,17 @@ Lilian
 **Lilian Weng 介绍**  
 Lilian Weng 是 OpenAI 华人科学家，她 2018 年加入 OpenAI，参与了 GPT-4 项目的预训练、强化学习 &
 对齐、模型安全等方面的工作。她本科毕业于北大，曾前往香港大学进行短期交流，博士毕业于印第安纳大学伯明顿分校。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMMAFXYrV1Zu1fBYjhfanLg0yZEKhPN6BfD6AlFcic1dIv8ogicbYIBD6Q/640?wx_fmt=png&from=appmsg)  
 根据领英资料显示，Lilian Weng 在 OpenAI 已经工作了近 7 年时间，担任安全研究副总裁一职。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECM6K0Qhfb2fYKPFLeEjmNOj0l0JIyuDMajkoSsHbwA2uRDgGicCPeC3gA/640?wx_fmt=png&from=appmsg)  
 2021 年 - 2023 年工作期间，Lilian Weng 建立并领导了应用人工智能研究团队，包括产品研究、合作伙伴研究和应用安全，从而使得
 OpenAI 的 API 更强大、更实用、更安全。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMaWMZMBsFtT6Ma3SsexZ2AHTrHa8Mctvx77XrjLL6nzamWoK1RaxS1A/640?wx_fmt=png&from=appmsg)  
 之前，她还是 OpenAI 机器人团队的技术主管，专注于训练关于机器人任务的算法，如教机械手如何解决魔方、旋转方块等。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMQ53UibjJHsKndFftDqbxjZIKYNU7iaQv321KxicfY7D0eichLVCX97UXpg/640?wx_fmt=png&from=appmsg)  
 在加入 OpenAI 之前，她还在 Facebook、Dropbox 从事软件工程和数据科学方面的工作。  
 Google Scholar 显示，Lilian Weng 论文引用量超过 13000 多次。  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW8DnR9UR1ia1KoMrcuyLsECMlrjdYUibK9nav1EYgyaEWgbHPX1F0m80jPhOwia41u1gwA4IHQasYShw/640?wx_fmt=png&from=appmsg)  
 闲暇时间，Lilian Weng 还写了一些关于 AI 的博客文章，她的博客深入、细致，具有前瞻性，被很多 AI
 研究者视为重要的参考资料（见文末「扩展阅读」）。感兴趣的读者可以前去阅读。  
 扩展阅读：  

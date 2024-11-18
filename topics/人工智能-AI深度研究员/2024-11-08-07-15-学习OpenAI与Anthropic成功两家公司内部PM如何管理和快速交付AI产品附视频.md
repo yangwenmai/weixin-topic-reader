@@ -5,6 +5,8 @@
 发布地: 上海
 原文链接: http://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247494111&idx=1&sn=34f1f2985baf40d0d6382c3792e2cef0&chksm=c0085b3af77fd22ca52449e1946e8b376697cd9e3e3c36134aec7a6c74daa5e8c533234ec370#rd
 
+封面图链接: https://mmbiz.qpic.cn/mmbiz_jpg/iaqv2tagPYAgbqmX05EYnrP0WgdVQwqeyKUtM2UUIwZX7Hbt8yXLICKJE9J4XEo7a6G6AaB7cRPak45JVLjZb1Q/300
+
 **（关注公众号并设为🌟标，获取最新人工智能资讯和产品）**
 
 全文8,000 字，阅读约需21分钟
@@ -191,6 +193,8 @@ aX1oii4&t=1620s&ab_channel=20VCwithHarryStebbings
 
 **不只是算法，我们在创造改变生活的可能。您是否曾想过AI技术能带来突破？现在，欢迎扫描下方二维码或点击链接填写AI需求，来和我们聊聊。**
 
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAgbqmX05EYnrP0WgdVQwqeyibr0kldDNSS6cYSyBzanl18GHXQfOfZicoo7bEAIibicA1jpRh6SzsGvNA/640?wx_fmt=png&from=appmsg)
+
 _**https://kawecob6a7k.feishu.cn/share/base/form/shrcn9i5HkwtHpkQNaV1bDqjt8f，会有相关负责人及时联系您，请留意您的微信和邮箱信息。**_
 
 ##  往期回顾
@@ -202,6 +206,8 @@ _**https://kawecob6a7k.feishu.cn/share/base/form/shrcn9i5HkwtHpkQNaV1bDqjt8f，�
 [3、[CNN对话软银CEO孙正义：超级AI不仅会在2035年到来，还将具备万倍于人类的智能](https://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247493966&idx=2&sn=d0992e40e82b4a827c37f853272b4d42&chksm=c0085babf77fd2bd804482ddfb52289f520f319c9afb71640c464c9d2de7ed48a238a6c891ff&scene=21#wechat_redirect)
 
 * * *
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAhtRhTOjz2QwH4dIlC3YUcYbaicMEwjqQqh06Yhdd7EH3r9wiaMRArLz0a6Zhx6uiaUD7hguPfbY0nAg/640?wx_fmt=png&from=appmsg)
 
   
 

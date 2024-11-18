@@ -5,9 +5,13 @@
 发布地: 上海
 原文链接: http://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247494194&idx=1&sn=44aa7291a1215b432afc0860fb448abf&chksm=c00858d7f77fd1c184b433e5f7d5c7adf4773487445bfe8eaf2c36f9d14dca134fbda67d1c23#rd
 
+封面图链接: https://mmbiz.qpic.cn/mmbiz_jpg/iaqv2tagPYAiara4cq7j6L9Btlu6wUD7UBvaURVa9eKkribeRp6137HYnNqcUXCIQTlUWJrykJz5fC0BrNRnLW5Zg/300
+
 **（关注公众号并设为🌟标，获取最新人工智能资讯和产品）**
 
 全文5,000 字，阅读约需13分钟
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAiara4cq7j6L9Btlu6wUD7UBPsB3iaj4wUexy1ogZJgickJaj4JQHX5XR7dpc9vvja5C5pIxPze2FRfQ/640?wx_fmt=png&from=appmsg)
 
 收到许多同学热情的私信和留言，表示对采访Dario Amodei 原视频的特别感兴趣，这令我们深受鼓舞。现在，我们整理了著名播客主持人 Lex
 Fridman 对 Anthropic 核心团队长达 5 小时的视频专访，供大家学习和思考。作为全球顶尖人工智能公司之一，Anthropic 以其备受瞩目的
@@ -104,6 +108,8 @@ CEO万字专访：技术持续突破，我依旧坚信AGI将在2026年实现](ht
 
 ### 1）采访主题：Claude 的性格特征设计 (约1小时)
 
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAiara4cq7j6L9Btlu6wUD7UBZ2Kibw1a2yPWwN1JVT64ZicIGyzEc7ZYqbMgghASCsFgSVClktPdBQoQ/640?wx_fmt=png&from=appmsg)
+
 Amanda Askell (Anthropic 人工智能研究员)
 
   * **哲学根基：** 从"万物之哲学"到AI Amanda认为哲学是一个非常适合充满好奇心的人去探索的领域。"它包含了'万物之哲学'，"她解释道，"你可以研究一段时间数学哲学，然后突然发现自己对化学感兴趣，于是就去研究化学哲学。"在学术生涯的后期，她专注于伦理学研究，探讨包含无数个体的世界中的伦理问题。正是这种对改善世界的渴望推动她在2017-2018年期间转向了人工智能领域。"我想看看自己能否真正对世界产生一些积极的影响，"她说，"即使失败了，也至少尝试过，大不了回去继续学术研究。"
@@ -121,6 +127,8 @@ Amanda Askell (Anthropic 人工智能研究员)
 展望未来，Amanda认为我们需要谨慎地处理人与AI之间的关系。她强调了让AI保持诚实的重要性，即准确表达自己的本质和局限。她相信，只有在清楚理解AI的本质的基础上，人类才能与AI建立健康的互动关系。
 
 ### 2）采访主题：AI 系统的机械可解释性研究 (约1小时)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAiara4cq7j6L9Btlu6wUD7UBSMas4q6qHAA4Eiam4ODKZ3cyupw1bAC4EPS1T5I5NgZ8icCnfjJpreicg/640?wx_fmt=png&from=appmsg)
 
 Chris Olah (Anthropic 可解释研究员)
 
@@ -163,7 +171,7 @@ Olah认为，我们应该改变看待神经网络的方式。"我们并不是在
 
 **不只是算法，我们在创造改变生活的可能。您是否曾想过AI技术能带来突破？现在，欢迎扫描下方二维码或点击链接填写AI需求，来和我们聊聊。**
 
- _****_
+_**![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAiara4cq7j6L9Btlu6wUD7UBCD1ZtFzia5lw1WQQbhvbia2RJD3NIlAN2OJYyvztNDlnQc3iaPMBXf2ww/640?wx_fmt=png&from=appmsg)**_
 
 _**https://kawecob6a7k.feishu.cn/share/base/form/shrcn9i5HkwtHpkQNaV1bDqjt8f，会有相关负责人及时联系您，请留意您的微信和邮箱信息。**_
 
@@ -179,6 +187,8 @@ Altman：他再次阐述对一个人AI公司的定义以及GPT系列规划]](htt
 年实现记忆并释放出新的创造力，将成为我们的“第二大脑”]](https://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247494036&idx=1&sn=e284f5629b5930d9da226763e07e7de3&chksm=c0085b71f77fd267da786bfbb46d6b3b802a14c27b11c8597cd4d58e7b60b7607f1a8e00eae8&scene=21#wechat_redirect)
 
 * * *
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAhtRhTOjz2QwH4dIlC3YUcYbaicMEwjqQqh06Yhdd7EH3r9wiaMRArLz0a6Zhx6uiaUD7hguPfbY0nAg/640?wx_fmt=png&from=appmsg)
 
 ****
 

@@ -5,9 +5,13 @@
 发布地: 上海
 原文链接: http://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247494141&idx=1&sn=cda17f559e8d0c53b9735d88a928202d&chksm=c0085b18f77fd20e066e35be03bc4a428827dc9d22b21bc1ca749719e71e15d5f6859b8fe4ae#rd
 
+封面图链接: https://mmbiz.qpic.cn/mmbiz_jpg/iaqv2tagPYAiaL7PlKHjBa3aqEqSI51kMvtiawEPMStAvJO4vFz1GXECJqHWB0tNkXBYAJyiabakjDwR3go5MyZ3wQ/300
+
 **（关注公众号并设为🌟标，获取最新人工智能资讯和产品）**
 
 全文19,000 字，阅读约需38分钟
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAiaL7PlKHjBa3aqEqSI51kMvKo7GFOOfmpn3ztg4xEaVKuyjMaM5rm6kws0L2j9pNTBP7rE2Q57N7w/640?wx_fmt=png&from=appmsg)
 
 > ——AI的扩展定律将继续保持不变，其中蕴含着许多我们现在的理论还无法解释的神奇力量
 >
@@ -207,6 +211,8 @@ training）这些因素在Anthropic的Claude模型中起到了什么作用。我
 
 **不只是算法，我们在创造改变生活的可能。您是否曾想过AI技术能带来突破？现在，欢迎扫描下方二维码或点击链接填写AI需求，来和我们聊聊。**
 
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAiaL7PlKHjBa3aqEqSI51kMvIaolcia8daPrv3ePqIQapsB6ncBKnBpKib2OCDyPACViaO16qqfs8WLbA/640?wx_fmt=png&from=appmsg)
+
 _https://kawecob6a7k.feishu.cn/share/base/form/shrcn9i5HkwtHpkQNaV1bDqjt8f，会有相关负责人及时联系您，请留意您的微信和邮箱信息。_
 
 ##  往期回顾
@@ -220,6 +226,8 @@ Altman：OpenAI新战略下，与主流路线不同的AI创业机会（附完整
 [3、[CNN对话软银CEO孙正义：超级AI不仅会在2035年到来，还将具备万倍于人类的智能](https://mp.weixin.qq.com/s?__biz=Mzg5NTc4ODkzOA==&mid=2247493966&idx=2&sn=d0992e40e82b4a827c37f853272b4d42&chksm=c0085babf77fd2bd804482ddfb52289f520f319c9afb71640c464c9d2de7ed48a238a6c891ff&scene=21#wechat_redirect)
 
 * * *
+
+![](https://mmbiz.qpic.cn/mmbiz_png/iaqv2tagPYAhtRhTOjz2QwH4dIlC3YUcYbaicMEwjqQqh06Yhdd7EH3r9wiaMRArLz0a6Zhx6uiaUD7hguPfbY0nAg/640?wx_fmt=png&from=appmsg)
 
 ****
 

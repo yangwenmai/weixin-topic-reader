@@ -1,4 +1,4 @@
-import { app, BrowserWindow, ipcMain } from 'electron'
+import { app, BrowserWindow, ipcMain, Menu, session } from 'electron'
 import path from 'node:path'
 import { fileURLToPath } from 'url'
 import { PythonShell } from 'python-shell';
@@ -13,6 +13,7 @@ if (process.platform === 'win32') {
 
 const createWindow = () => {
   const win = new BrowserWindow({
+    title: 'Markdown Reader',
     width: 1200,
     height: 800,
     webPreferences: {
@@ -38,7 +39,7 @@ app.whenReady().then(() => {
 
   // 允许加载远程内容
   session.defaultSession.webRequest.onBeforeSendHeaders(
-    { urls: ['https://mmbiz.qpic.cn/*', 'https://mp.weixin.qq.com/*'] },
+    { urls: ['https://mmbiz.qpic.cn/*', 'https://mmbiz.qlogo.cn/*', 'https://mp.weixin.qq.com/*'] },
     (details, callback) => {
       details.requestHeaders['Referer'] = 'https://mp.weixin.qq.com';
       details.requestHeaders['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36';

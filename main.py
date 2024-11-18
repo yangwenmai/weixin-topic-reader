@@ -162,9 +162,12 @@ class WeixinCrawler:
         import os
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
-            
-        # 使用发布时间作为文件名前缀
-        filename = f"{output_dir}/{article_data['publish_time']}-{article_data['title']}.md"
+        
+        # 构建文件名（移除文件名中的非法字符）
+        safe_title = re.sub(r'[\\/:*?"<>|]', '', article_data['title'])  # 移除 Windows/Unix 非法字符
+        filename = f"{output_dir}/{article_data['publish_time']}-{safe_title}.md"
+        # 确保父目录存在
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
         # 处理文件名中的非法字符
         filename = "".join(char for char in filename if char.isalnum() or char in ('-', '_', '/', '.'))
         

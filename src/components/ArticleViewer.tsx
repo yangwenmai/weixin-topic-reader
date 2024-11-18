@@ -40,6 +40,9 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
     if (url.includes('mmbiz.qpic.cn')) {
       return url.replace('https://mmbiz.qpic.cn', '/wx-images');
     }
+    if (url.includes('mmbiz.qlogo.cn')) {
+      return url.replace('https://mmbiz.qlogo.cn', '/wx-qim');
+    }
     if (url.includes('mp.weixin.qq.com')) {
       return url.replace('https://mp.weixin.qq.com', '/wx-mp');
     }
@@ -64,7 +67,14 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
   if (!article) {
     return (
       <div className={`h-full flex items-center justify-center ${className}`}>
-        <p className="text-gray-500 text-xl">请选择一篇文章查看</p>
+        <p className="text-gray-500 text-xl">请选择一篇文章查看，如果你有任何建议，欢迎
+          <a 
+            href="https://github.com/yangwenmai" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-blue-500 hover:text-blue-700 hover:underline ml-1"
+          >联系我</a>。
+      </p>
       </div>
     );
   }
