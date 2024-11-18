@@ -1,0 +1,23 @@
+TOPICS = [
+    {
+        "topic_name": "ai-先锋人物-机器之心",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MzI4MjgzMw==&action=getalbum&album_id=3700928316463726602&scene=173#wechat_redirect"
+    },
+    {
+        "topic_name": "人工智能-AI深度研究员",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTc4ODkzOA==&action=getalbum&album_id=2939711012260315141&scene=173#wechat_redirect"
+    },
+    {
+        "topic_name": "深度访谈-瓜哥AI新知",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5NTU4NDM2MA==&action=getalbum&album_id=3676407098503610371&scene=173#wechat_redirect"
+    },
+    {
+        "topic_name": "AIGC-投资研究所",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMDA3MjMwNw==&action=getalbum&album_id=2625273155049504769&scene=173#wechat_redirect"
+    },
+    {
+        "topic_name": "世界级AI大佬采访精华-AI寒武纪",
+        "topic_desc": "这里汇集全世界顶尖 AI 大佬最新采访，涉及对 AI 的未来发展预测最新观点",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3MTkxMjYzOA==&action=getalbum&album_id=3719460822565994501&scene=173#wechat_redirect"
+    }
+] 

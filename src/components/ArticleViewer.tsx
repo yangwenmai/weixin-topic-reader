@@ -1,19 +1,28 @@
 import { useEffect, useState } from 'react';
 import { ArticleData, loadArticles } from '../utils/markdownLoader';
 import ReactMarkdown from 'react-markdown';
+import { updateArticleReadStatus } from '../utils/storage';
 
 interface ArticleViewerProps {
   topicId: string | null;
   articleId: string | null;
+  className?: string;  // 添加 className 属性
 }
 
 export const ArticleViewer: React.FC<ArticleViewerProps> = ({ 
   topicId, 
-  articleId 
+  articleId,
+  className = ''  // 提供默认值
 }) => {
   const [article, setArticle] = useState<ArticleData | null>(null);
   const [viewMode, setViewMode] = useState<'markdown' | 'original'>('original');
 
+  useEffect(() => {
+    if (articleId) {
+      updateArticleReadStatus(articleId);
+    }
+  }, [articleId]);
+  
   useEffect(() => {
     if (topicId && articleId) {
       const articles = loadArticles(topicId);
@@ -26,28 +35,42 @@ export const ArticleViewer: React.FC<ArticleViewerProps> = ({
     }
   }, [topicId, articleId]);
 
+  const getProxiedImageUrl = (url: string) => {
+    if (!url) return '';
+    if (url.includes('mmbiz.qpic.cn')) {
+      return url.replace('https://mmbiz.qpic.cn', '/wx-images');
+    }
+    if (url.includes('mp.weixin.qq.com')) {
+      return url.replace('https://mp.weixin.qq.com', '/wx-mp');
+    }
+    return url;
+  };
   // 自定义图片渲染
   const ImageRenderer = ({ src, alt }: { src: string; alt?: string }) => {
     return (
       <img 
-        src={src} 
-        alt={alt} 
+        src={getProxiedImageUrl(src)} 
+        alt="{alt}"
         className="max-w-full h-auto"
         loading="lazy"
+        onError={(e) => {
+          console.error('Image load failed:', article.cover);
+          (e.target as HTMLImageElement).style.display = 'none';
+        }}
       />
     );
   };
 
   if (!article) {
     return (
-      <div className="h-full flex items-center justify-center">
+      <div className={`h-full flex items-center justify-center ${className}`}>
         <p className="text-gray-500 text-xl">请选择一篇文章查看</p>
       </div>
     );
   }
 
   return (
-    <main className="flex-1 bg-white flex flex-col h-full">
+    <main className={`flex-1 bg-white flex flex-col h-full ${className}`}>
       <div className="sticky top-0 bg-white border-b border-gray-200 p-4 shadow-sm z-10">
         <div className="max-w-4xl mx-auto flex justify-between items-center">
           <h1 className="text-xl font-bold text-gray-900 truncate">
