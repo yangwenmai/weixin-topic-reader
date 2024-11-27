@@ -28,5 +28,10 @@ TOPICS = [
         "topic_name": "AmazingFounder-胖福馒头",
         "topic_desc": "46篇内容",
         "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxNDUzMzkyMg==&action=getalbum&album_id=1798873223741145089&scene=173#wechat_redirect"
+    },
+    {
+        "topic_name": "架构师-架构师之路",
+        "topic_desc": "71篇内容",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5ODYxMDA5OQ==&action=getalbum&album_id=1954368861319856133#wechat_redirect"
     }
-] 
+]
