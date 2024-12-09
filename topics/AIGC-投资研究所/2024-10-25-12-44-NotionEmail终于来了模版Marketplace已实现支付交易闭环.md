@@ -5,6 +5,8 @@
 发布地: 广东
 原文链接: http://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455855224&idx=1&sn=7c0f4fbed6d5f523d9ad835555021424&chksm=80445064b733d972f125adc18651d41125fb8df825e0bd98ed63b9a3587b37a4fb6c67a87fab#rd
 
+封面图链接: https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4pTibJLYQPHGlZR1XqRh45MtjDVfnKPx499MbgickC301hApgAACXXc4yF0MQvyvWdHOkHEwul4RjhA/300
+
 Notion 今天举行了一个叫 Make with Notion
 的发布会，这次发布会发布了一系列的新功能和产品，包括了表单（Forms）、布局（Layouts）、自动化（Automations）、Notion
 AI、交易市场（Marketplace） 以及大家**最期待的 Notion Email** 。
@@ -30,6 +32,8 @@ Notion AI 连接实现自动回复邮件的功能。
 的其他功能一样。比方说，如果你想雇用某个人，Notion Mail 会自动将这些电子邮件聚集到“招聘”中，并为项目更新和客户支持保留另一个“视图”。**
 这感觉和 Gmail 里添加一个 Tag 类似，只不过它自动将它实现了。
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4pTibJLYQPHGlZR1XqRh45MtMTu6IqNKlia0UCSbVZvupe9nRHyZiaJnibK2iarMsGYB0UVFUK3kic9cY1g/640?wx_fmt=jpeg&from=appmsg)
+
 目前 Notion Mail 还需要进入 Waitlist 等待，官网说要到 2025 年才正式推出，到时候会同时上线 iPhone 和 Android
 客户端，因此具体如何可能要体验了才知道，你可以在这里（https://www.notion.com/product/mail）加入邮件列表。
 
@@ -46,6 +50,8 @@ Notion 中，让人们更轻松的安排事情，并且能够知道他们下一�
 
 除了邮件外，此次发布会上其他功能主要围绕**新的构建块、新的工作流程和新的分享方式** 来展开，比方说现在可以直接在 Notion
 里构建和分享表单，布局这块，现在你可以自己定制喜欢的布局方式，而不再是它提供的那几种；
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4pTibJLYQPHGlZR1XqRh45Mt2Eyuu9rCK4kZWZKsiaeDpOENHhu72o9IMPEoQ6OeSpeTORptpTp1s3A/640?wx_fmt=jpeg&from=appmsg)
 
 自动化方面，现在支持了Google、Slack、Notion AI 以及 Formulas，同时正在打通
 Zapper，你可以使用命令让它自动更新数据库和页面的信息。
@@ -74,6 +80,8 @@ Marketplace，而**创作者获得的分成是 90%** ，我估计会吸引更多
 100 里的 90%科技企业如 Figma，福布斯 AI 50 里的 94%的 AI 企业如 OpenAI，YC 里
 51%的创业公司，另外就是个人特别是创作者。**
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4pTibJLYQPHGlZR1XqRh45MtKdOoQMVuX6nXdun2EGr5o6ZGxYoj5knW2tON6Qn0VKnWdxOk0mngGw/640?wx_fmt=jpeg&from=appmsg)
+
 ****
 
 整体上，Ivan Zhao 还是在强调通过乐高积木的方式搭建工具的理念，这一点似乎一直没变。
@@ -81,7 +89,7 @@ Marketplace，而**创作者获得的分成是 90%** ，我估计会吸引更多
 **·END****·******  
 **加入 Memo****Pro****会员，获取更多趋势****信号**  
   
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/sBQys0vjP4pTibJLYQPHGlZR1XqRh45MtjKRVgBfxW7KHrd54WW6EqmOPtufdLZ0kQguaoFNSfeyXvLvEEPySIQ/640?wx_fmt=png&from=appmsg)  
 
 Memo: Signal, not noise!
 
@@ -93,13 +101,17 @@ Memo（vcsmemo.com）是一个基于付费订阅模式的创投内容平台，�
 **订阅 Memo****Pro****你将获得：**  
 1.解锁未来一年以及之前的所有会员专属内容2.[**邮件订阅功能**](http://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455853781&idx=1&sn=b6f8e3ddc87e9531f3f8c3e9cd98bd9f&chksm=80446ac9b733e3df93b89c17e905182bda7f4d132f3ac468961dfd70badeb92b9fcdf9f7083b&scene=21#wechat_redirect)：付费内容+最新行业快讯+...3.优先体验
 Memo 新产品和新功能4.后台回复“发票”获得开票入口**  
-****限时 599 元/年，扫码立即订阅**[ Notion 用户突破 1 亿最早融资 PPT 曝光，AI
+****限时 599
+元/年，扫码立即订阅**[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4qB1ibRnJAlLERgBicohVlD1wjHM1IicCSkvGWCMHmBK8FzX2iccG4ZhQw6SBRspmsicphHPwUqiaEB6dRQ/640?wx_fmt=jpeg)
+Notion 用户突破 1 亿最早融资 PPT 曝光，AI
 软件是新的硬件](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455854496&idx=1&sn=53921e44388aeeca6047cefbc1f7c8c1&chksm=80446dbcb733e4aa8156123e0e8a54705f77318574911884d003331f80409bca57b785c4f406&scene=21#wechat_redirect)  
-[Notion CEO：AI 可能终结当前 SaaS
+[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4pVUd2dicxQPfjGIpHLEwrEla2Z1MOAwu2exoicNeGqrPkMGiaZm9NZrz6icqaR5vjfSmccFTl8V5KIyw/640?wx_fmt=jpeg)Notion
+CEO：AI 可能终结当前 SaaS
 全面开花的现状](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455853490&idx=1&sn=15f102598526cd67abd43d727bf588b6&chksm=804469aeb733e0b81506032f412ec807422651e7edfaf9758cd5ffb7f58e0ce652c540e599b5&scene=21#wechat_redirect)  
-[Notion 用户快 1 亿了， 未来要构建 AI Everything
+[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4qCsjeAA1NP1uSsVXVXBbtCsqX1JaODMY21bDFgbbT9RvFtmRX2SdvbTGgr8Twawnb9AY20GAr9VA/640?wx_fmt=jpeg)Notion
+用户快 1 亿了， 未来要构建 AI Everything
 App](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455853454&idx=1&sn=811f25438ab79035bcf3044d37a85903&chksm=80446992b733e0844df95e57d533d436d11efcf80261bfe97d6b03fe78ddbacb3ea5bff0a94a&scene=21#wechat_redirect)  
-[Notion
+[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4rbnt0HrRPNgdd2f5vUbibJaSALhzm9wqGEqRSoUW9PunPNJDS8WVsOeJI9r1iahibjMlztoTNxJ1gXg/640?wx_fmt=jpeg)Notion
 推出了第一个独立产品，公司战略正在发生变化](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455852912&idx=1&sn=fb5ef33c2dac532198114317996ec804&chksm=8044676cb733ee7a898e8ffdf1cd39f8834d58efd1ecac73b347f37e125006406b6c700be172&scene=21#wechat_redirect)
 
   

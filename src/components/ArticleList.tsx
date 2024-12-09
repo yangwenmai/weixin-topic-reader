@@ -64,7 +64,7 @@ export const ArticleList: React.FC<ArticleListProps> = ({
                   </div>
                 )}
                 <div className="flex-grow min-w-0">
-                  <div className="font-medium mb-1 truncate">{article.title}</div>
+                  <div className="font-medium mb-1 truncate" title={article.title}>{article.title}</div>
                   <div className="flex justify-between text-sm text-gray-500">
                     <span>{article.date}</span>
                     {readStatus && (

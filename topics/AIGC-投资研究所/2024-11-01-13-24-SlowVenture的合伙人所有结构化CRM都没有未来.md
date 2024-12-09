@@ -5,6 +5,8 @@
 发布地: 广东
 原文链接: http://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455855270&idx=1&sn=747029807f6be76d8a7ca26e86687079&chksm=804450bab733d9acdb81a2127ceeb95341b7ad57fe97aee04826e8d7b045e6c51d4c83ff980f#rd
 
+封面图链接: https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4rgD3iabnWeNba90fzPpBWRBHIwgibq6MzCsRMHNy4GJ2ibpYJjyDiaXHL6dWbzG6k8WWNI8DEX0axkEg/300
+
 今天 ChatGPT 的搜索功能发布了，或许是已经用 Perplexity 比较习惯，此次 ChatGPT
 的搜索就没太多惊艳感了，所以我体验了一下感觉效果一般般，看看后续多用用会不会有更多不一定的体验。
 
@@ -36,6 +38,8 @@ Sam Lessin 说，将人工手动输入到结构化字段中的时代已经结束
 
 他说让他非常惊喜的是，以前他都是自己写这些脚本，但 ChatGPT
 完全自动化了这个过程，上传文件，告诉它要做什么，获取提取后的文本（这虽然不是火箭科学，但很酷！）。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4rgD3iabnWeNba90fzPpBWRBz37XSAX0lryBt3OpOXxicJbL725Io39EG1hD1QsKjNHqkEPbWRTKjGA/640?wx_fmt=jpeg&from=appmsg)
 
 我特别喜欢他这个观点：**拥有人类输入的原始记录/材料非常重要，但它应该像对话（文字和语音）一样流畅——然后由机器来处理剩下的事情** 。
 
@@ -73,7 +77,7 @@ CRM，或许也没啥必要了，或者这块至少应该会发生一些改变�
 **·END****·******  
 **加入 Memo****Pro****会员，获取更多趋势****信号**  
   
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/sBQys0vjP4rgD3iabnWeNba90fzPpBWRBRicZI4fIdP1NsohxrA2FvxGSFqpOn7HWmBn0okAD5icW1kgia0VRfbYzw/640?wx_fmt=png&from=appmsg)  
 
 Memo: Signal, not noise!
 
@@ -85,13 +89,18 @@ Memo（vcsmemo.com）是一个基于付费订阅模式的创投内容平台，�
 **订阅 Memo****Pro****你将获得：**  
 1.解锁未来一年以及之前的所有会员专属内容2.[**邮件订阅功能**](http://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455853781&idx=1&sn=b6f8e3ddc87e9531f3f8c3e9cd98bd9f&chksm=80446ac9b733e3df93b89c17e905182bda7f4d132f3ac468961dfd70badeb92b9fcdf9f7083b&scene=21#wechat_redirect)：付费内容+最新行业快讯+...3.优先体验
 Memo 新产品和新功能4.后台回复“发票”获得开票入口**  
-****限时 599 元/年，扫码立即订阅**[ AI 笔记再拿 5000 万美金行业进入新阶段，OpenAI 董事长的 AI 产品估值 45
+****限时 599
+元/年，扫码立即订阅**[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4quSSEnibbyZCsK6LgMYddGylOHgSYQ5CqHuzicLjeVkAicofdhXpQ53L64Wf6pIvXdm19mRzrUY7mFA/640?wx_fmt=jpeg)
+AI 笔记再拿 5000 万美金行业进入新阶段，OpenAI 董事长的 AI 产品估值 45
 亿美金了](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455855237&idx=1&sn=309358cea2558f8199c565cdc3365f48&chksm=80445099b733d98f8d60db215df111c50542f785f7128242736b34dddc8a5e72fb5a17543cf8&scene=21#wechat_redirect)  
-[3 大顶级 VC 重磅级团队重塑，VC
+[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4o75YiccicvjnTMl5IhzQ1CuHYTMNrviac2GqdyXCE8Y1O7fC1h7CBHXQ4xe9uPotPzicN1r3b8UWZicpw/640?wx_fmt=jpeg)3
+大顶级 VC 重磅级团队重塑，VC
 行业正经历深刻变化](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455851541&idx=1&sn=9b99164c1f39ea12531fb450191affb0&chksm=80446209b733eb1fe6e3a18dfb4752e5a422f2b3fdb30b619e322425c04d83533d3fc24c68a6&scene=21#wechat_redirect)  
-[为了投一个 AI 招聘产品，Benchmark
+[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4pdzO6xxaicuKEcqoTo9qfGPk3hAT3fqfj8gwOfKF8bZP0TsV7CMhPYOwibHTKdErhJc0Z9Bic9cVfGQ/640?wx_fmt=jpeg)为了投一个
+AI 招聘产品，Benchmark
 合伙人开直升机抢投资机会](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455855000&idx=1&sn=e86a18a1061fa3bd7c795a9bb5d4dff2&chksm=80446f84b733e6928fac36cb34f4ae1e0ad0cced41e1930902223e7323a81dee6046aef3f78b&scene=21#wechat_redirect)  
-[a16z 给这个 AI 搜索投了 1
+[![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sBQys0vjP4rq1qdfGib6Xf6q1OycRzdBswx8Sdj46LpeBlaiaselqpAFSasxlyw5Sw32VLpibnFUDVVsmHGd7cPMg/640?wx_fmt=jpeg)a16z
+给这个 AI 搜索投了 1
 亿美金，瞄准的是海量非结构化数据](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455854289&idx=1&sn=8350b0b50042e9998559b8942d6c92ee&chksm=80446ccdb733e5db4020ecfbfa3db3748a8e5c8f1ad90fd68e6dcf7207d0fab2363b26968d0c&scene=21#wechat_redirect)
 
   

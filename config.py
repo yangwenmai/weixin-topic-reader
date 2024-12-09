@@ -14,11 +14,11 @@ TOPICS = [
         "topic_desc": "40篇内容",
         "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5NTU4NDM2MA==&action=getalbum&album_id=3676407098503610371&scene=173#wechat_redirect"
     },
-    # {
-    #     "topic_name": "AIGC-投资研究所",
-    #     "topic_desc": "282篇内容",
-    #     "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMDA3MjMwNw==&action=getalbum&album_id=2625273155049504769&scene=173#wechat_redirect"
-    # },
+    {
+        "topic_name": "AIGC-投资研究所",
+        "topic_desc": "282篇内容",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMDA3MjMwNw==&action=getalbum&album_id=2625273155049504769&scene=173#wechat_redirect"
+    },
     {
         "topic_name": "世界级AI大佬采访精华-AI寒武纪",
         "topic_desc": "这里汇集全世界顶尖 AI 大佬最新采访，涉及对 AI 的未来发展预测最新观点",
@@ -28,6 +28,11 @@ TOPICS = [
         "topic_name": "AmazingFounder-胖福馒头",
         "topic_desc": "46篇内容",
         "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxNDUzMzkyMg==&action=getalbum&album_id=1798873223741145089&scene=173#wechat_redirect"
+    },
+    {
+        "topic_name": "2024学术圈都在关注-量子位",
+        "topic_desc": "378篇内容",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjc1NzUzMw==&action=getalbum&album_id=3287605374170415105&scene=173#wechat_redirect"
     },
     {
         "topic_name": "架构师-架构师之路",
