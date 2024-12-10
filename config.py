@@ -4,11 +4,11 @@ TOPICS = [
         "topic_desc": "27篇内容",
         "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MzI4MjgzMw==&action=getalbum&album_id=3700928316463726602&scene=173#wechat_redirect"
     },
-    # {
-    #     "topic_name": "人工智能-AI深度研究员",
-    #     "topic_desc": "330篇内容",
-    #     "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTc4ODkzOA==&action=getalbum&album_id=2939711012260315141&scene=173#wechat_redirect"
-    # },
+    {
+        "topic_name": "人工智能-AI深度研究员",
+        "topic_desc": "330篇内容",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTc4ODkzOA==&action=getalbum&album_id=2939711012260315141&scene=173#wechat_redirect"
+    },
     {
         "topic_name": "深度访谈-瓜哥AI新知",
         "topic_desc": "40篇内容",
