@@ -38,5 +38,10 @@ TOPICS = [
         "topic_name": "架构师-架构师之路",
         "topic_desc": "71篇内容",
         "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5ODYxMDA5OQ==&action=getalbum&album_id=1954368861319856133#wechat_redirect"
+    },
+    {
+        "topic_name": "AI产业动态-AI范儿",
+        "topic_desc": "33篇内容",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0NzQzOTczOA==&action=getalbum&album_id=3693810579304546308#wechat_redirect"
     }
 ]

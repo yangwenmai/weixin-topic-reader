@@ -13,7 +13,7 @@ if (process.platform === 'win32') {
 
 const createWindow = () => {
   const win = new BrowserWindow({
-    title: 'Markdown Reader',
+    title: 'Weixin Topic Reader',
     width: 1200,
     height: 800,
     webPreferences: {

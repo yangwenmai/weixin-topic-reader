@@ -8,8 +8,8 @@ interface ReadStatus {
   }
   
   const STORAGE_KEYS = {
-    READ_STATUS: 'markdown-reader:read-status',
-    TOPIC_STATUS: 'markdown-reader:topic-status'
+    READ_STATUS: 'weixin-topic-reader:read-status',
+    TOPIC_STATUS: 'weixin-topic-reader:topic-status'
   };
   
   // 获取文章的阅读状态
