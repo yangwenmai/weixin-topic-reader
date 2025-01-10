@@ -43,5 +43,10 @@ TOPICS = [
         "topic_name": "AI产业动态-AI范儿",
         "topic_desc": "33篇内容",
         "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0NzQzOTczOA==&action=getalbum&album_id=3693810579304546308#wechat_redirect"
+    },
+    {
+        "topic_name": "Founder100-FounderPark",
+        "topic_desc": "54篇内容",
+        "album_url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTc0MjgwMw==&action=getalbum&album_id=2323942060573474817#wechat_redirect"
     }
 ]
