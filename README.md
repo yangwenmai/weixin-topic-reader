@@ -4,6 +4,8 @@
 
 <img width="1466" alt="image" src="https://github.com/user-attachments/assets/0932ff05-201b-4924-af43-f82b6aa8134c">
 
+[手把手带你从零到一使用 AI 实战：微信话题订阅阅读器的实现 - bilibili 视频回放](https:////player.bilibili.com/player.html?isOutside=true&aid=113804989960969&bvid=BV1HicWe8Eis&cid=27802010131&p=1)
+
 ## ✨ 特性
 
 - 📱 支持本地化阅读微信公众号文章
